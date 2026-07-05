@@ -16,7 +16,7 @@ Open **`config.js`** — it's the only file you normally need to touch:
 | `VIDEO_EMBED_URL` | YouTube/Vimeo **embed** URL (swap anytime to change the video) |
 | `DATES` / `TIME` / `TIMEZONE` / `YEAR` | Workshop details |
 
-**Your photo:** replace `assets/teacher.jpg` with your own (keep the same filename).
+**Your photo:** `assets/profile.jpeg` (replace with your own, keep the same filename).
 **Your bio & name:** edit the "Meet your teacher" section in `index.html`.
 
 ### Video URL format

@@ -139,6 +139,32 @@ h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; line-hei
 .card h3 { margin: 0 0 8px; font-size: 1.25rem; }
 .card p { margin: 0; color: var(--ink-soft); }
 
+/* ===== Sudarshan Kriya ===== */
+.kriya { display: flex; flex-wrap: wrap; gap: 46px; align-items: center; }
+.kriya__media { flex: 1 1 320px; }
+.kriya__media img {
+  width: 100%;
+  max-width: 460px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: block;
+  margin: 0 auto;
+}
+.kriya__body { flex: 1 1 360px; }
+.kriya__body h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 6px 0 16px; }
+.kriya__highlight { color: var(--teal-deep); }
+.kriya__body > p { color: var(--ink-soft); margin: 0 0 18px; }
+.kriya__points { list-style: none; padding: 0; margin: 0 0 18px; }
+.kriya__points li { position: relative; padding-left: 30px; margin-bottom: 12px; color: var(--ink); font-weight: 500; }
+.kriya__points li::before {
+  content: "";
+  position: absolute; left: 0; top: 7px;
+  width: 16px; height: 16px; border-radius: 50%;
+  background: var(--teal);
+  box-shadow: 0 0 0 4px rgba(47,158,143,.18);
+}
+.kriya__note { color: var(--ink-soft); font-style: italic; margin: 0; }
+
 /* ===== Schedule ===== */
 .days { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
 .day {

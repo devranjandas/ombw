@@ -27,7 +27,7 @@ window.OMBW_CONFIG = {
        YouTube:  https://www.youtube.com/embed/VIDEO_ID
        Vimeo:    https://player.vimeo.com/video/VIDEO_ID
   ------------------------------------------------------------- */
-  VIDEO_EMBED_URL: "https://www.youtube.com/embed/inpok4MKVLM",   // <-- CHANGE THIS
+  VIDEO_EMBED_URL: "https://www.youtube.com/embed/cYhUW4ljJ1Q",   // <-- CHANGE THIS
 
   /* --- Workshop details ---------------------------------------- */
   DATES: "19 – 22 July",
