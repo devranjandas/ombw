@@ -216,7 +216,8 @@ h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; line-hei
   width: 100%; height: 100%; color: #fff; font-weight: 600;
 }
 .teacher__bio { flex: 1 1 340px; }
-.teacher__bio h2 { margin: 6px 0 12px; }
+.teacher__bio h2 { margin: 6px 0 6px; }
+.teacher__creds { color: var(--teal-deep); font-weight: 600; margin: 0 0 14px; font-size: .95rem; }
 .teacher__bio p { color: var(--ink-soft); margin: 0 0 14px; }
 
 /* ===== Final CTA ===== */

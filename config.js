@@ -10,7 +10,7 @@ window.OMBW_CONFIG = {
      digits ONLY. No "+", no spaces, no dashes.
      Example (India): "919876543210"
   ------------------------------------------------------------- */
-  WHATSAPP_NUMBER: "919876543210",   // <-- CHANGE THIS
+  WHATSAPP_NUMBER: "919969053627",   // <-- CHANGE THIS
 
   // Pre-filled messages for each button (edit the wording freely)
   WHATSAPP_MSG_GENERAL: "Hi, I have a question about the OMBW workshop.",
@@ -19,7 +19,7 @@ window.OMBW_CONFIG = {
   /* --- Registration form --------------------------------------
      Link to your course registration form (Google Form, etc.)
   ------------------------------------------------------------- */
-  REGISTRATION_URL: "https://example.com/register",   // <-- CHANGE THIS
+  REGISTRATION_URL: "https://aolt.in/1034891",   // <-- CHANGE THIS
 
   /* --- Intro video --------------------------------------------
      Paste a YouTube or Vimeo EMBED url. To swap the video later,
