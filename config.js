@@ -19,7 +19,7 @@ window.OMBW_CONFIG = {
   /* --- Registration form --------------------------------------
      Link to your course registration form (Google Form, etc.)
   ------------------------------------------------------------- */
-  REGISTRATION_URL: "https://aolt.in/1034891",   // <-- CHANGE THIS
+  REGISTRATION_URL: "https://aolt.in/1047601",   // <-- CHANGE THIS
 
   /* --- Intro video --------------------------------------------
      Paste a YouTube or Vimeo EMBED url. To swap the video later,
@@ -30,8 +30,8 @@ window.OMBW_CONFIG = {
   VIDEO_EMBED_URL: "https://www.youtube.com/embed/cYhUW4ljJ1Q",   // <-- CHANGE THIS
 
   /* --- Workshop details ---------------------------------------- */
-  DATES: "19 – 22 July",
+  DATES: "10 – 13 Sep 2026",
   TIME: "6:30 – 8:30 AM",
   TIMEZONE: "IST",          // change if not India Standard Time
-  YEAR: "2025"
+  YEAR: "2026"
 };
