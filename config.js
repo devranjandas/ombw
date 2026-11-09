@@ -30,7 +30,7 @@ window.OMBW_CONFIG = {
   VIDEO_EMBED_URL: "https://www.youtube.com/embed/cYhUW4ljJ1Q",   // <-- CHANGE THIS
 
   /* --- Workshop details ---------------------------------------- */
-  DATES: "01 – 04 Nov 2026",
+  DATES: "26 – 29 Nov 2026",
   TIME: "7:00 – 9:00 AM",
   TIMEZONE: "IST",          // change if not India Standard Time
   YEAR: "2026"
