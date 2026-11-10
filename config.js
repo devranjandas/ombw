@@ -19,7 +19,7 @@ window.OMBW_CONFIG = {
   /* --- Registration form --------------------------------------
      Link to your course registration form (Google Form, etc.)
   ------------------------------------------------------------- */
-  REGISTRATION_URL: "https://aolt.in/1055176",   // <-- CHANGE THIS
+  REGISTRATION_URL: "https://aolt.in/1074003",   // <-- CHANGE THIS
 
   /* --- Intro video --------------------------------------------
      Paste a YouTube or Vimeo EMBED url. To swap the video later,
